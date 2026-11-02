@@ -35,15 +35,9 @@ Si une fenêtre demande de **télécharger un mod à la main** (certains auteurs
 Son auteur interdit le téléchargement automatique et il n'existe pas sur Modrinth.
 Télécharge **une seule fois** `structuremaps-1.20.1-1.0.jar` sur sa page CurseForge (onglet *Files*, version **1.20.1-1.0**) et mets-le dans le dossier `mods` de l'instance (*Modifier* → *Ouvrir .minecraft* → `mods`). La synchro packwiz ne le supprimera pas.
 
-### Mods conseillés côté joueur (optionnels, à ajouter soi-même)
+### Déjà inclus dans le pack
 
-Ils ne sont pas obligatoires pour se connecter. Dans Prism : *Modifier* → *Mods* → *Télécharger des mods*.
-
-- Xaero's Minimap + Xaero's World Map
-- Embeddium (+ Sodium/Embeddium Dynamic Lights)
-- Oculus (shaders)
-- Ok Zoomer (Forge)
-- ToroHealth Damage Indicators (Unofficial)
+Minimap Xaero, Embeddium, lumière dynamique, Ok Zoomer, ToroHealth… sont installés automatiquement. Pour les shaders, ajouter soi-même **Oculus** (*Modifier* → *Mods* → *Télécharger des mods*).
 
 ---
 
