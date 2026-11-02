@@ -30,6 +30,11 @@ https://raw.githubusercontent.com/Hugo-Tessier/survie-viking/main/pack.toml
 
 Si une fenêtre demande de **télécharger un mod à la main** (certains auteurs CurseForge l'imposent), clique sur le lien proposé, télécharge le fichier et suis les indications de la fenêtre. Si ça bloque, préviens Hugo.
 
+### ⚠️ Un mod à ajouter à la main : Structure Maps
+
+Son auteur interdit le téléchargement automatique et il n'existe pas sur Modrinth.
+Télécharge **une seule fois** `structuremaps-1.20.1-1.0.jar` sur sa page CurseForge (onglet *Files*, version **1.20.1-1.0**) et mets-le dans le dossier `mods` de l'instance (*Modifier* → *Ouvrir .minecraft* → `mods`). La synchro packwiz ne le supprimera pas.
+
 ### Mods conseillés côté joueur (optionnels, à ajouter soi-même)
 
 Ils ne sont pas obligatoires pour se connecter. Dans Prism : *Modifier* → *Mods* → *Télécharger des mods*.
