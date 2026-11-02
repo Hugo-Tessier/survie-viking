@@ -1,0 +1,6 @@
+# Fichiers locaux à ne pas publier dans le pack
+packwiz.exe
+packwiz
+*.zip
+.git/
+README.md
