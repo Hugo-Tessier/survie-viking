@@ -1,0 +1,19 @@
+{
+  "item.epic_knights_ores_and_alloys.tin_ingot": "Lingot d'étain",
+  "item.epic_knights_ores_and_alloys.silver_ingot": "Lingot d'argent",
+  "item.epic_knights_ores_and_alloys.bronze_ingot": "Lingot de bronze",
+  "item.epic_knights_ores_and_alloys.raw_tin": "Étain brut",
+  "item.epic_knights_ores_and_alloys.raw_silver": "Argent brut",
+  "item.epic_knights_ores_and_alloys.tin_nugget": "Pépite d'étain",
+  "item.epic_knights_ores_and_alloys.silver_nugget": "Pépite d'argent",
+  "item.epic_knights_ores_and_alloys.bronze_nugget": "Pépite de bronze",
+  "block.epic_knights_ores_and_alloys.tin_ore": "Minerai d'étain",
+  "block.epic_knights_ores_and_alloys.deepslate_tin_ore": "Minerai d'étain des abîmes",
+  "block.epic_knights_ores_and_alloys.silver_ore": "Minerai d'argent",
+  "block.epic_knights_ores_and_alloys.deepslate_silver_ore": "Minerai d'argent des abîmes",
+  "block.epic_knights_ores_and_alloys.tin_block": "Bloc d'étain",
+  "block.epic_knights_ores_and_alloys.silver_block": "Bloc d'argent",
+  "block.epic_knights_ores_and_alloys.bronze_block": "Bloc de bronze",
+  "block.epic_knights_ores_and_alloys.raw_tin_block": "Bloc d'étain brut",
+  "block.epic_knights_ores_and_alloys.raw_silver_block": "Bloc d'argent brut"
+}

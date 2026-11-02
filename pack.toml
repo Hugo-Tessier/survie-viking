@@ -1,10 +1,12 @@
-name = "1.20.1"
+name = "Survie Viking"
+author = "Hugotsr"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eaf30e7b4d3447129c2a607034a43d9acd4278144ac1919ecb391a93a24638c8"
+hash = "fd7c8b8d379201b62023bbe11259fec11d6f75a710973eb9c991fc4b3b612245"
 
 [versions]
 forge = "47.4.28"
