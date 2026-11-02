@@ -3,11 +3,11 @@ filename = "nordic_holds-1.8.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9c891f5f158853f26cf1d57f3a8db803f364f576"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/9m4XCG3m/versions/PsnbxQSM/nordic_holds-1.8.2.jar"
+hash-format = "sha512"
+hash = "a232cc8488ca04ecdd890314f258c98ff37c632892e3dc29670d53593067a318d435ac050e3e979a5b67d71061aa12c2fb2e99ee5208d294155a8a107129d99b"
 
 [update]
-[update.curseforge]
-file-id = 6876779
-project-id = 1316157
+[update.modrinth]
+mod-id = "9m4XCG3m"
+version = "PsnbxQSM"

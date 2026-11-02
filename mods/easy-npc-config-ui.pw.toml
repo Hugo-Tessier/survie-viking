@@ -3,11 +3,11 @@ filename = "easy_npc_config_ui-forge-1.20.1-7.17.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cfe94db7fe8c0c2479d6c69435bf556c8c58e2d5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uTGjf7vA/versions/B6VLAru9/easy_npc_config_ui-forge-1.20.1-7.17.1.jar"
+hash-format = "sha512"
+hash = "7d7772a15b423e3a576c933c10880a5582fffc86b7f1f57b005662f65cd6dc3975775df6b6c8137439eb92f9981f9c2f348109c27109376c8ed640ea22aacd1b"
 
 [update]
-[update.curseforge]
-file-id = 9310595
-project-id = 1214728
+[update.modrinth]
+mod-id = "uTGjf7vA"
+version = "B6VLAru9"

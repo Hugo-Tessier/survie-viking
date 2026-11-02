@@ -2,19 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/assets/epic_knights_ores_and_alloys/lang/fr_fr.json"
-hash = "6d837f801357dcf657fda9ed6c4c34f35f8f47518788a27449af3286dfadfde9"
+hash = "4fbc052de87a4ff3778976e7239368300b3e0e1c85683a88ca04c819378d9001"
 
 [[files]]
 file = "kubejs/assets/magistuarmory/lang/fr_fr.json"
-hash = "39b4e7747ca8b279a2c5cf43c176182d232673d664b21cf0839bf0b6ba519041"
+hash = "b92a8b73a5b4034b354abb32ebd5414844d0189da8f2b84aac776a8a43088f2f"
 
 [[files]]
 file = "kubejs/client_scripts/cacher_armes_futuristes.js"
-hash = "b679e265abf6b4676f3302c1e6e61147f22e29927bd2ec0ea8f6b25d3e3ace47"
+hash = "66953ac119fef0a67f6aa8b89e893ea9e3f0e55a53f3545d03da52469589b3ae"
 
 [[files]]
 file = "kubejs/server_scripts/retirer_armes_futuristes.js"
-hash = "9ddc64605de9e54cebf9cb48476c1ed634eb785e19a65e2734bb64111581cc83"
+hash = "75a789e53e80e6f45af9019c663a90f3610bfe1c0f8237ff73a0c25548e02004"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -63,42 +63,42 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "00a06884a4f8854fad85f2456c1d6c53ee09cc5e545a35e41cad24e82907a1ab"
+hash = "9a15cc895e461c0000a0f8fdcaae0ea233a959e9b43794010234cf8fffa9ea1f"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-config-ui.pw.toml"
-hash = "e1f7378e54708a89b239c23f3b26e28d239172b2a1ade38de7d14f4a207e0559"
+hash = "31f18564063ef60737958e925efbd0ec336f70541b5b78c4d415cbaf0ae225ac"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc-core.pw.toml"
-hash = "db38f3cdeb31aab9520dcc47808aec9d2cb2b5c082692af003c969f6f82ce6e6"
+hash = "7e1c25b95fecdb1fa6f475c4863769ebc7b3d56891fbaba11be25ed977834420"
 metafile = true
 
 [[files]]
 file = "mods/easy-npc.pw.toml"
-hash = "63b3dcd138e443878ba56d6c7c420da511044d68a1bf5019c581d87578177b7b"
+hash = "6924abe509b7a446d3a4a448c55761cbaf2cfce2d60341cfc7697b211a4a2d56"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
+hash = "596d476c53016be1e7ddaa7e53677b4922d310a281d8ad3506a06115e4665a02"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3334a3773c09b3b971b2f47122a6bf589eceeef496436a14370a5454ae7dd580"
+hash = "a8b6fe99ce96b797e2c3e0670de5993da2ad35403cd7eb56fbf0b28804aec9b1"
 metafile = true
 
 [[files]]
 file = "mods/entity-player-compat.pw.toml"
-hash = "b6530fd40e69a697a5b18fda245e8a33b7591b6dcf602a82d9220c847ce782f9"
+hash = "948d9e1ab320b08e94d75fe5e5f1639dd21ec0d56511433825c39d3f850b0876"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "5ba599bd7efd378378fcf71b8329d727ad8d5f73552c3c473c7f20f52ae9ec5f"
+hash = "94961801d44785ec8f04aa53ea3c375b9dc702347511a39f3a385f6cb307c823"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
@@ -223,12 +223,12 @@ metafile = true
 
 [[files]]
 file = "mods/nordic-holds.pw.toml"
-hash = "7aa44980a31bc9f38d925661a3a72ef2e075570c0172e70ce1b724d277330271"
+hash = "ea1018d5f82ae0977d043736d12d08b271288a5b70f98d0a9dc51da81f85d26b"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
-hash = "b4f81deb6d02a95587c3228e805145ed675fb7f9337c4bc4bca93013d6360d15"
+hash = "b235859cb0669280731c5fdda12e07c5439fb5c763e447902120ecb890fbe49e"
 metafile = true
 
 [[files]]
@@ -248,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
-hash = "edd90cf540728fb2af53b9c7e7bdd73d95cdbcd6a8c0bd6d4582d4738cf9a524"
+hash = "fe625d049f4a8ca7ac571ce71bef46a77b30058bd9092ebd2cd2eb18f22c8280"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "bec4fd7f9b90e9040786e31d14bf4af7fb42fce842b9f5acfdd0821c973ecb82"
+hash = "c2291f9f060c44e8b652532319484b56fa3d4009ed713e69ef2d35bad4ac3c61"
 metafile = true
 
 [[files]]
@@ -272,18 +272,13 @@ hash = "a642b95cbba5f2c1ed3d964dac5ed5d7f897ce147795f6d68bf5f468ebd8c82e"
 metafile = true
 
 [[files]]
-file = "mods/structure-maps.pw.toml"
-hash = "70333be9cab86f86f23c62cadf13e581b46cf3f40241cd4bfeba1569f7b6f3da"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "edfafd11282b46cca84cce70807e85f8b11e918ead6a1ef7aa7d9e216d98ece3"
 metafile = true
 
 [[files]]
 file = "mods/torohealth-unofficial.pw.toml"
-hash = "3474b3cd99a100ebcfc4d2440babd1fe20956e10c57b0636d462edb5a8cb8e38"
+hash = "db2d1c3d1209e24a0091702cdd6658e57ed89876cde76dccb07ca129036ba041"
 metafile = true
 
 [[files]]
