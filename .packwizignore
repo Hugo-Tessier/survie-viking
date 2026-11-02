@@ -4,3 +4,4 @@ packwiz
 *.zip
 .git/
 README.md
+.gitattributes
