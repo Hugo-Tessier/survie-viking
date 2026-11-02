@@ -1,0 +1,13 @@
+name = "Villagers Reborn"
+filename = "villagersreborn-1.0.9b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b12f747915f9439073865456826ee16dbf8ab3ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8620935
+project-id = 1361000

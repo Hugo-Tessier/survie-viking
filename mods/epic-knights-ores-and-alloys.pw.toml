@@ -1,0 +1,13 @@
+name = "Epic Knights: Ores and Alloys"
+filename = "[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f518c42c64f472e464adc067da389c0797af141b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5857444
+project-id = 1125802

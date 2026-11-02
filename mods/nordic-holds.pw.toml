@@ -1,0 +1,13 @@
+name = "Nordic Holds"
+filename = "nordic_holds-1.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c891f5f158853f26cf1d57f3a8db803f364f576"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6876779
+project-id = 1316157
