@@ -32,6 +32,11 @@ hash = "95e1e53b02444a363aef8e309fd75422bae1d8844ddf681ba8750f8e6d3e1942"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-bettercombat-compatibility.pw.toml"
 hash = "fe647f706c22882cf8526692bc761729ab6615b5affda4b6c12ccbab316e73de"
 metafile = true
@@ -168,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
-hash = "04a0f1d1679e23a8219f2d8b32ab6945c4034946acaea7b6dfc72c77f2fd49c8"
+hash = "9f872f241c572d8bf87b55952ff16cb724d9b96de65cba94f789c7b49251b70a"
 metafile = true
 
 [[files]]
@@ -208,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
+hash = "9d5803fdca0759e3b94133ae7cfb6cd5f766aa5780935a6607a7a4d165041245"
 metafile = true
 
 [[files]]
@@ -263,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "03b55b90a7d504904f4062d7a3b84eb4f9ef3866413cb8bc8bc11157594b33f1"
+hash = "20dd700f0c1eb42425d156033d7064b6e6c92eec37a1f028de41f9e501d89faa"
 metafile = true
 
 [[files]]
