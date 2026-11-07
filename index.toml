@@ -282,6 +282,11 @@ hash = "0fee410f465c9b07f0b975c78db300084f2cfb001a4f17e41e8219ec9423c668"
 metafile = true
 
 [[files]]
+file = "mods/uncraft-everything.pw.toml"
+hash = "26518e5d0516867b95df234c2341882f00fef1ba6f487048cdac67d0d3e2c669"
+metafile = true
+
+[[files]]
 file = "mods/uranus.pw.toml"
 hash = "0bbfbeabd0b7fdb20a85cb7cb1b07b95366dc6f6b71170e9ae0e3d1f4a0b4087"
 metafile = true
